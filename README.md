@@ -23,7 +23,7 @@ Avaible '.Xresources' atributes:
 
 Example configuration:
 ```
-*.font: Inconsolata:pyyixelsize=15:antialias=true:autohint=true:hintstyle=hintmedium
+*.font: Inconsolata:pixelsize=15:antialias=true:autohint=true:hintstyle=hintmedium
 
 *.background: #071616
 *.foreground: #dfdfdf
