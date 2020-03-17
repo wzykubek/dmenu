@@ -9,6 +9,7 @@ sudo make clean install
 * Mouse support
 * Line height modify
 * .Xresources support
+* Hide password (`-P` flag)
 
 ## Configuration
 #### .Xresources
