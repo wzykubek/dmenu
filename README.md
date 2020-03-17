@@ -10,6 +10,7 @@ sudo make clean install
 * Line height modify
 * .Xresources support
 * Hide password (`-P` flag)
+* Highlight of matched text
 
 ## Configuration
 #### .Xresources
